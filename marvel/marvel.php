@@ -3,7 +3,7 @@
 Plugin URI: http://marvel.com/
 Description: Marvel Widget.
 Version: 1.0
-Author: WPBeginner
+Author: Marvel
 Author URI: http://marvel.com/
 License: GPL2
 */
